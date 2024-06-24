@@ -1,0 +1,11 @@
+{
+    "name": "openai-assistant",
+    "version": "1.0.0",
+    "description": "An assistant using OpenAI APIs",
+    "main": "api/index.js",
+    "dependencies": {
+      "axios": "^0.27.2",
+      "dotenv": "^10.0.0",
+      "form-data": "^4.0.0"
+    }
+  }
